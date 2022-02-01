@@ -26,7 +26,7 @@ public class Scavenger{
         printcolum("Grades URL:", "TODO");
         printcolum("Midterm and Final exams URL:", "TODO");
         printcolum("Practice exams URL:", "TODO");
-        printcolum("Office Hours:", "TODO");
+        printcolum("Office Hours URL:", "TODO");
     }
 
     /**
@@ -38,7 +38,7 @@ public class Scavenger{
         System.out.println("Syllabus Policies");
         printcolum("A grade of 79.9% will translate to a" , "TODO");
         printcolum("There are 11 labs each worth" , "TODO (points)");
-        printcolum("There are 10 homework assignments each worth" , "TODO (points)");
+        printcolum("There are 10 reading assignments each worth" , "TODO (points)");
         printcolum("There is 1 final project worth" , "TODO (points)");
         printcolum("There is 1 midterm exam worth" , "TODO (points)");
         printcolum("Late work can be submitted up to" , "TODO days late");
