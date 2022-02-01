@@ -46,7 +46,6 @@ public class Scavenger{
 
     /**
      * Due dates can be found on the class homepage. https://shanepanter.com/cs2/
-     * There are 11 labs, 10 homeworks, 1 project, 1 midterm, 1 final exam, and 1 final project
      */
     public static void dueDates(){
         System.out.println("----------");
@@ -84,10 +83,20 @@ public class Scavenger{
         printcolum("lesson28: Make Generic is due on:" , "TODO");
         printcolum("lesson29: Iterator Tests (TDD) is due on:" , "TODO");
         printcolum("lesson30: List Iterator is due on:" , "TODO");
-  
+
+        System.out.println("----------");
+        System.out.println("Midterm and Final exam");
+        printcolum("The Midterm must be completed by:" , "TODO");
+        printcolum("The Final must be completed by:" , "TODO");
   
     }
     
+    /**
+     * Main entry point.
+     * To compile this file run: javac Scavenger.java
+     * To run this file: java Scavenger
+     * @param args
+     */
     public static void main(String args[]){
         System.out.println("Scavenger Hunt");
         importantLinks();
