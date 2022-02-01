@@ -1,4 +1,3 @@
-package src;
 /**
  * Class to contain all the data from a scavenger hunt
  */
