@@ -94,8 +94,6 @@ public class Scavenger{
     
     /**
      * Main entry point.
-     * To compile this file run: javac Scavenger.java
-     * To run this file: java Scavenger
      * @param args
      */
     public static void main(String args[]){
