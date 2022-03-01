@@ -1,27 +1,27 @@
 # lesson02 - Scavenger Hunt
 
-- name: TODO
-- email: TODO
-- [lab specs](https://shanepanter.com/cs2/lessons/lesson02.html)
 
+## Learning Objectives
 
-## Testing
+- Ensure your development environment is all setup
+- Explore the website
+- Ensure you can submit code to be graded
+- Make sure Github Classrooms functioning
 
-TODO - This section should detail how you tested your code.
+## Overview
 
-## Know issues
-
-TODO - Please detail any known issues, bugs, or features that you didn't have time to implement.
-
-## Sources used
-
-TODO - If you used any sources outside of the lecture notes, class lab files, or text book you need to list them here.
+The number #1 reason for students failing this course is falling behind. In this class I have
+released 100% of the schedule on day 1 so you can know what is coming due at any point in the
+semester.  To that end we are going to do a quick scavenger hunt. This will probably be the easiest
+scavenger hunt in history as I will tell you exactly where to look and what to do. The purpose of
+this lab is to ensure that you are aware of when everything is due, familiarize yourself with the
+course, and make sure you have all the development tools installed and ready to use.
 
 ## Task 1 - Install VSCode
 
 In this task we will get all of our development tools setup on our machine. If you have a computer
 that is not capable of installing all the required tools the department provides a [computer lab]({%
-link _docs/syllabus.md %}#computer-lab) for all students to use.
+link _cs2/docs/syllabus.md %}#computer-lab) for all students to use.
 
 - Install the VScode [Coding pack for Java](https://code.visualstudio.com/learn/educators/installers)
 - Install the [Gradle extension](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
