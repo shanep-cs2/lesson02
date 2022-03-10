@@ -8,6 +8,11 @@
 - Ensure you can submit code to be graded
 - Make sure Github Classrooms functioning
 
+## Videos
+
+- [Lab Overview]()
+- [Fun Video](https://www.youtube.com/watch?v=KG2M4ttzBnY)
+
 ## Overview
 
 The number #1 reason for students failing this course is falling behind. In this class I have
