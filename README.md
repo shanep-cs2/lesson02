@@ -8,10 +8,10 @@
 - Ensure you can submit code to be graded
 - Make sure Github Classrooms functioning
 
-## Videos
+## Important links
 
 - [Lab Overview]()
-- [Fun Video](https://www.youtube.com/watch?v=KG2M4ttzBnY)
+- [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
 
 ## Overview
 
