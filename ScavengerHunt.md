@@ -1,0 +1,51 @@
+# Scavenger Hunt
+
+Complete each section below! Replace each TODO with the correct information.
+
+
+## Course Links
+
+- The Course Homepage URL: https://shanep-cs2.github.io
+- Text Book URL: TODO
+- Discussion Forum URL: TODO
+- Github Course Site URL: TODO
+- Grades URL: TODO
+- Office Hours URL: TODO
+
+## Documents
+
+- Class coding Standards URL: TODO
+- Github Help URL: TODO
+- Learning Objectives URL: TODO
+
+## Syllabus Stuff
+
+- A grade of 79.9% will translate to a TODO
+- The total number of points that I can earn is TODO
+- Late work can be submitted TODO days late
+
+## Due dates and Points
+
+Complete the table below. You can easily work with markdown tables with the [Markdown All in One
+Plugin](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
+
+If a lesson doesn't have any points associated with it you can just leave that cell blank.
+
+| Lesson   | Title               | Points | Due Date |
+| -------- | ------------------- | ------ | -------- |
+| lesson01 | Course Introduction | 20     |          |
+| lesson02 |                     |        |          |
+| lesson03 |                     |        |          |
+| lesson04 |                     |        |          |
+| lesson05 |                     |        |          |
+| lesson06 |                     |        |          |
+| lesson07 |                     |        |          |
+| lesson08 |                     |        |          |
+| lesson09 |                     |        |          |
+| lesson10 |                     |        |          |
+| lesson11 |                     |        |          |
+| lesson12 |                     |        |          |
+| lesson13 |                     |        |          |
+
+
+ 
