@@ -43,14 +43,12 @@ what your doing.
 
 ## Task 3 - Compile Hello World
 
-Once you have 
+Once you have installed all your tools fix the file HelloWorld.java so it compiles to ensure
+you have a working Java installation.
 
 ## Task 4 - Scavenger hunt
 
-We will be using github to submit all our code. The starter code is linked below, click on the
-starter code link to get access to the assignment. Once you have accepted the assignment you should
-see a file named **Scavenger.java**. Your task is to replace all the `TODO` place holders with the
-correct information.
+Open the file **ScavengerHunt.java** and complete all the TODO items that are listed. 
 
 ## Task 5 - Add, Commit, Push your code
 

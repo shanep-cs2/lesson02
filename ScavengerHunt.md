@@ -46,6 +46,23 @@ If a lesson doesn't have any points associated with it you can just leave that c
 | lesson11 |                     |        |          |
 | lesson12 |                     |        |          |
 | lesson13 |                     |        |          |
+| lesson14 |                     |        |          |
+| lesson15 |                     |        |          |
+| lesson16 |                     |        |          |
+| lesson17 |                     |        |          |
+| lesson18 |                     |        |          |
+| lesson19 |                     |        |          |
+| lesson20 |                     |        |          |
+| lesson21 |                     |        |          |
+| lesson22 |                     |        |          |
+| lesson23 |                     |        |          |
+| lesson24 |                     |        |          |
+| lesson25 |                     |        |          |
+| lesson26 |                     |        |          |
+| lesson27 |                     |        |          |
+| lesson28 |                     |        |          |
+| lesson29 |                     |        |          |
+| lesson30 |                     |        |          |
+| lesson31 |                     |        |          |
 
-
- 
+- Total number of points that I can earn this semester is TODO
