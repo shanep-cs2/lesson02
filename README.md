@@ -10,7 +10,7 @@
 
 ## Important links
 
-- [Lab Overview]()
+- [Lab Overview](https://youtu.be/VYJpk1fVFcU)
 - [VSCode and Git Installed](https://www.youtube.com/watch?v=lix7G-S8ox8)
 - [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
 - [Cloning and Submitting](https://shanep-cs2.github.io/docs/github.html)
