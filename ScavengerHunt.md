@@ -64,5 +64,3 @@ If a lesson doesn't have any points associated with it you can just leave that c
 | lesson29 |                     |        |             |
 | lesson30 |                     |        |             |
 | lesson31 |                     |        |             |
-
-- Total number of points that I can earn this semester is TODO
