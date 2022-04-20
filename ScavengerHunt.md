@@ -20,7 +20,6 @@ Complete each section below! Replace each TODO with the correct information.
 
 ## Syllabus Stuff
 
-- A grade of 79.9% will translate to a TODO
 - The total number of points that I can earn is TODO
 - Late work can be submitted TODO days late
 
