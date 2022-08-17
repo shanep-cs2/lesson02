@@ -6,9 +6,9 @@ Complete each section below! Replace each TODO with the correct information.
 
 TODO: Fill out the information below!
 
-- Name: John Doe
-- email: johndoe@u.boisestate.edu
-- github username: jdoe
+- Name: TODO
+- Boise state email: TODO
+- github username: TODO
 
 
 ## Course Links
