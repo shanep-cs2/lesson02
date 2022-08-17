@@ -2,6 +2,14 @@
 
 Complete each section below! Replace each TODO with the correct information.
 
+## About Me
+
+TODO: Fill out the information below!
+
+- Name: John Doe
+- email: johndoe@u.boisestate.edu
+- github username: jdoe
+
 
 ## Course Links
 
