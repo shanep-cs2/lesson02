@@ -41,7 +41,7 @@ If a lesson doesn't have any points associated with it you can just leave that c
 | Lesson   | Title               | Points | Due Date    |
 | -------- | ------------------- | ------ | ----------- |
 | lesson01 | Course Introduction |        |             |
-| lesson02 | Scavenger Hunt      | 50     | 08/26 - Fri |
+| lesson02 | Scavenger Hunt      | 25     | 08/26 - Fri |
 | lesson03 |                     |        |             |
 | lesson04 |                     |        |             |
 | lesson05 |                     |        |             |
