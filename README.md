@@ -6,7 +6,7 @@
 - Ensure your development environment is all setup
 - Explore the website
 - Ensure you can submit code to be graded
-- Make sure Github Classrooms functioning
+- Make sure Github Classrooms is functioning
 
 ## Important links
 
